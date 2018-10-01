@@ -1,0 +1,12 @@
+name: SCOOT
+title: SCOOT
+username:
+account: tedhaley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 463156
+bundleId: 1601382
+url: https://tedhaley.shinyapps.io/Scoot/
+when: 1537760703.20836
+asMultiple: FALSE
+asStatic: FALSE
